@@ -1,4 +1,4 @@
-# Ignite Lab Clone
+# Authentication API
 
 <p>
   🇺🇸 Simple Authentication API with Node.js, MongoDB with Mongoose, JWT and Bcrypt
